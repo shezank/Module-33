@@ -1,0 +1,13 @@
+.country{
+    border: 1px solid orchid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+
+.collums{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    text-align: center;
+}
